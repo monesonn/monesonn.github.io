@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>blog</title>
-    <link>https://monesonn.github.com/</link>
+    <link>https://monesonn.github.io/</link>
     <description>Recent content on blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stanislav</copyright>
-    <lastBuildDate>Mon, 05 Apr 2021 12:23:28 +0300</lastBuildDate><atom:link href="https://monesonn.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Apr 2021 12:23:28 +0300</lastBuildDate><atom:link href="https://monesonn.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction</title>
-      <link>https://monesonn.github.com/posts/intro/</link>
+      <link>https://monesonn.github.io/posts/intro/</link>
       <pubDate>Mon, 05 Apr 2021 12:23:28 +0300</pubDate>
       
-      <guid>https://monesonn.github.com/posts/intro/</guid>
+      <guid>https://monesonn.github.io/posts/intro/</guid>
       <description>This is my first site using Hugo. So, it&amp;rsquo;s looks kinda good for me. The idea of &amp;ldquo;compiling&amp;rdquo; a static site using .md looks convenient for writing documentation for some pet projects. I guess I&amp;rsquo;ll use it for this blog page until something interesting appears.
 .:~:..:~:..:~:..:~:..:~:..:~:..:~:..:~:..:~:.</description>
     </item>
