@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "blog"
 theme = "smol"
 copyright = "Stanislav"
+publishDir = "docs"
 
 # Parameters
 [params]
