@@ -1,0 +1,29 @@
+baseURL = "https://monesonn.github.com"
+languageCode = "en-us"
+title = "blog"
+theme = "smol"
+copyright = "Stanislav"
+
+# Parameters
+[params]
+    subtitle = "based thoughts"
+
+# Header
+[menu]
+  [[menu.main]]
+        identifier = "posts"
+        name = "posts"
+        url = "/posts/"
+        weight = 1 
+
+  [[menu.main]]
+        identifier = "tags"
+        name = "tags"
+        url = "/tags/"
+        weight = 2
+
+# Footer
+  [[menu.footer]]
+        name = "gh"
+        url = "https://github.com/monesonn"
+        weight = 1 
