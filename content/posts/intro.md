@@ -1,6 +1,6 @@
 ---
 title: "Introduction"
-date: 2021-04-05T12:23:28+03:00
+date: 2021-04-05
 draft: false
 ---
 

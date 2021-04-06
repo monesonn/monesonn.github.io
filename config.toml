@@ -1,30 +1,31 @@
 baseURL = "https://monesonn.github.io"
 languageCode = "en-us"
-title = "blog"
+title = "monesonn.sh"
 theme = "smol"
 copyright = "Stanislav"
 publishDir = "docs"
 
 # Parameters
 [params]
-    subtitle = "based thoughts"
+    subtitle = "only based thoughts"
+    dateFmt = "02.01.2006"
 
 # Header
 [menu]
   [[menu.main]]
         identifier = "posts"
-        name = "posts"
+        name = "Posts"
         url = "/posts/"
         weight = 1 
 
   [[menu.main]]
         identifier = "tags"
-        name = "tags"
+        name = "Tags"
         url = "/tags/"
         weight = 2
 
 # Footer
   [[menu.footer]]
-        name = "gh"
+        name = "GitHub"
         url = "https://github.com/monesonn"
         weight = 1 
