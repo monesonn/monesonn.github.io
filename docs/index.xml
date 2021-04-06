@@ -1,17 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>blog</title>
+    <title>monesonn.sh</title>
     <link>https://monesonn.github.io/</link>
-    <description>Recent content on blog</description>
+    <description>Recent content on monesonn.sh</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stanislav</copyright>
-    <lastBuildDate>Mon, 05 Apr 2021 12:23:28 +0300</lastBuildDate><atom:link href="https://monesonn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 06 Apr 2021 15:47:13 +0300</lastBuildDate><atom:link href="https://monesonn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>101.Suckless Slides</title>
+      <link>https://monesonn.github.io/posts/pandoc-slides/</link>
+      <pubDate>Tue, 06 Apr 2021 15:47:13 +0300</pubDate>
+      
+      <guid>https://monesonn.github.io/posts/pandoc-slides/</guid>
+      <description>Not so long ago I faced the problem that it&amp;rsquo;s quite difficult for me as a student to make presentations quickly and with high quality. Using Google Slide or similar services was not the best solution for me. For now, I won&amp;rsquo;t explain it yet.
+So, alternatively, I started to use: Pandoc + Beamer bundle.
+ Pandoc is a free and open-source document converter written on Haskell. Beamer is a LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects.</description>
+    </item>
+    
     <item>
       <title>Introduction</title>
       <link>https://monesonn.github.io/posts/intro/</link>
-      <pubDate>Mon, 05 Apr 2021 12:23:28 +0300</pubDate>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
       
       <guid>https://monesonn.github.io/posts/intro/</guid>
       <description>This is my first site using Hugo. So, it&amp;rsquo;s looks kinda good for me. The idea of &amp;ldquo;compiling&amp;rdquo; a static site using .md looks convenient for writing documentation for some pet projects. I guess I&amp;rsquo;ll use it for this blog page until something interesting appears.
