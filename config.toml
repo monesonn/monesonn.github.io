@@ -7,7 +7,7 @@ publishDir = "docs"
 
 # Parameters
 [params]
-    subtitle = "only based thoughts"
+    subtitle = "based thoughts"
     dateFmt = "02.01.2006"
 
 # Header
