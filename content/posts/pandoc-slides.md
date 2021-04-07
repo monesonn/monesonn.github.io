@@ -11,7 +11,7 @@ So, alternatively, I started to use: **Pandoc + Beamer** bundle.
 - **[Pandoc](https://pandoc.org/)** is a free and open-source document converter written on Haskell.
 - **[Beamer](https://ctan.org/pkg/beamer)** is a LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects.
 
-The idea is simple, we use pandoc for compiling our Markdown file into the LaTeX one. Then converting it into the PDF presentation. And that's it!
+The idea is simple, we use Pandoc for compiling our Markdown file into the LaTeX one. Then converting it into the PDF presentation. And that's it!
 
 In this post, I'll provide an example of how to quickly and efficiently create:
 
@@ -70,3 +70,7 @@ There are some useful resources and links for further consideration:
 Also, I recommend to use custom themes, f.e, my favorite is Metropolis.
 
 ``$ git clone https://github.com/matze/mtheme.git``
+
+I use theme locally, just copy .sty files into directory with presentation.
+
+**NOTE**: If you'll have error with text something like "pgfplotscreateplotcyclelist", when compiling the presentation. Just rename the pgfplotsthemetol.sty to pgfplots.sty. After that everything should work.

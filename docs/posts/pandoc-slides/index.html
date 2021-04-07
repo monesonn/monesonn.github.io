@@ -46,7 +46,7 @@
 <li><strong><a href="https://pandoc.org/">Pandoc</a></strong> is a free and open-source document converter written on Haskell.</li>
 <li><strong><a href="https://ctan.org/pkg/beamer">Beamer</a></strong> is a LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects.</li>
 </ul>
-<p>The idea is simple, we use pandoc for compiling our Markdown file into the LaTeX one. Then converting it into the PDF presentation. And that&rsquo;s it!</p>
+<p>The idea is simple, we use Pandoc for compiling our Markdown file into the LaTeX one. Then converting it into the PDF presentation. And that&rsquo;s it!</p>
 <p>In this post, I&rsquo;ll provide an example of how to quickly and efficiently create:</p>
 <p><strong>Bloat-free, Simple &amp; Markdown powered slides.</strong></p>
 <p>For Fedora Linux (my current daily drive), you should install packages as below:</p>
@@ -94,6 +94,8 @@ Blah, blah, blah, this&#39;s second paragraph
 </ul>
 <p>Also, I recommend to use custom themes, f.e, my favorite is Metropolis.</p>
 <p><code>$ git clone https://github.com/matze/mtheme.git</code></p>
+<p>I use theme locally, just copy .sty files into directory with presentation.</p>
+<p><strong>NOTE</strong>: If you&rsquo;ll have error with text something like &ldquo;pgfplotscreateplotcyclelist&rdquo;, when compiling the presentation. Just rename the pgfplotsthemetol.sty to pgfplots.sty. After that everything should work.</p>
 
 			</div>
 		</article>
