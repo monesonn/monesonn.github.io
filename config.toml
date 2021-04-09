@@ -1,6 +1,6 @@
 baseURL = "https://monesonn.github.io"
 languageCode = "en-us"
-title = "monesonn.sh"
+title = "~/.monesonn"
 theme = "smol"
 copyright = "Stanislav"
 publishDir = "docs"
