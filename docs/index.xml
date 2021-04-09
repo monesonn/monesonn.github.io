@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>monesonn.sh</title>
+    <title>~/.monesonn</title>
     <link>https://monesonn.github.io/</link>
-    <description>Recent content on monesonn.sh</description>
+    <description>Recent content on ~/.monesonn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stanislav</copyright>

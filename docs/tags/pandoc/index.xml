@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pandoc on ~/.monesonn</title>
+    <link>https://monesonn.github.io/tags/pandoc/</link>
+    <description>Recent content in pandoc on ~/.monesonn</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Stanislav</copyright>
+    <lastBuildDate>Tue, 06 Apr 2021 15:47:13 +0300</lastBuildDate><atom:link href="https://monesonn.github.io/tags/pandoc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>101.Suckless Slides</title>
+      <link>https://monesonn.github.io/posts/pandoc-slides/</link>
+      <pubDate>Tue, 06 Apr 2021 15:47:13 +0300</pubDate>
+      
+      <guid>https://monesonn.github.io/posts/pandoc-slides/</guid>
+      <description>Not so long ago I faced the problem that it&amp;rsquo;s quite difficult for me as a student to make presentations quickly and with high quality. Using Google Slide or similar services was not the best solution for me. For now, I won&amp;rsquo;t explain it yet.
+So, alternatively, I started to use: Pandoc + Beamer bundle.
+ Pandoc is a free and open-source document converter written on Haskell. Beamer is a LaTeX document class for creating presentation slides, with a wide range of templates and a set of features for making slideshow effects.</description>
+    </item>
+    
+  </channel>
+</rss>

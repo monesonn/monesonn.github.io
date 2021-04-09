@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on monesonn.sh</title>
+    <title>Categories on ~/.monesonn</title>
     <link>https://monesonn.github.io/categories/</link>
-    <description>Recent content in Categories on monesonn.sh</description>
+    <description>Recent content in Categories on ~/.monesonn</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stanislav</copyright><atom:link href="https://monesonn.github.io/categories/index.xml" rel="self" type="application/rss+xml" />

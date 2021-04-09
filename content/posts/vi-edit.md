@@ -2,6 +2,7 @@
 title: "101.Suckless Editing"
 date: 2021-04-07
 draft: false
+tags: ["vi","101"]
 ---
 
 When it comes to editing files, I would definitely recommended any VI-like editors [Vim/Neovim]. They are pretty simple and functional as the Swiss knife. They can be used directly from the terminal and compared to other editors, they more faster and better cope with different types of files. The mastering itself, I would describe the Bushnell Citation: "Easy to learn, hard on the master." Knowledge of it will never be superfluous and only depends on you how useful it can be.

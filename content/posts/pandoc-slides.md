@@ -2,6 +2,7 @@
 title: "101.Suckless Slides"
 date: 2021-04-06T15:47:13+03:00
 draft: false
+tags: ["pandoc", "101"]
 ---
 
 Not so long ago I faced the problem that it's quite difficult for me as a student to make presentations quickly and with high quality. Using Google Slide or similar services was not the best solution for me. For now, I won't explain it yet.
