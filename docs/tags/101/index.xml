@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Stanislav</copyright>
-    <lastBuildDate>Wed, 07 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://monesonn.github.io/tags/101/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Apr 2021 10:07:34 +0300</lastBuildDate><atom:link href="https://monesonn.github.io/tags/101/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>101.Artix</title>
+      <link>https://monesonn.github.io/posts/artix-installation/</link>
+      <pubDate>Mon, 12 Apr 2021 10:07:34 +0300</pubDate>
+      
+      <guid>https://monesonn.github.io/posts/artix-installation/</guid>
+      <description>Artix [The Art of Linux] - systemd-free GNU/Linux distribution. It uses OpenRC, runit or s6 as init system.
+Basically, it&amp;rsquo;s fork of the Arch with minimal differences, it&amp;rsquo;s almost the same, but there is an option of runit system (due to it, few Arch packages might not be available yet).
+Below I&amp;rsquo;ll put link. There are you find external links and information against systemd, and why you should use Artix Linux or similiar distributions:</description>
+    </item>
+    
     <item>
       <title>101.Suckless Editing</title>
       <link>https://monesonn.github.io/posts/vi-edit/</link>
